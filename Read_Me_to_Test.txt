@@ -1,3 +1,6 @@
+Overview;
+This is a Ruby object oriented approach to build a web application that utilized SQLite to track user information and logins. 
+
 Preface;
 This is to help you test the code in Qwasar's DoCode Environment.
 A database "called my_user_app" and "cookies.txt" will be created as you go.
